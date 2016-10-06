@@ -5,3 +5,4 @@ Test line 4
 Test line 5
 Test line 6 in master
 Test line 7 in master
+Test line 8
