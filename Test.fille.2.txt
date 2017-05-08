@@ -5,3 +5,5 @@ Test file 2. Line 4
 
 Test file 2. Line 5
 
+Test file 2. Line 6
+
