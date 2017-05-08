@@ -1,2 +1,4 @@
 Test file 2. Line 1
 Test file 2. Line 2
+Test file 2. Line 3
+Test file 2. Line 4
