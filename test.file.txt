@@ -7,3 +7,4 @@ Test line 6 in master
 Test line 7 in master
 Test line 8
 Test line 9
+Test line 10
